@@ -1,4 +1,11 @@
-# Foundry Fund Me
+# This is a CrowdFunding App using Foundry Framework (Solidity Smart Contracts)
+
+Functionality is same as i have uploaded Crowdfunding smart contract, but this project follows professional practices and divided whole project into three things
+
+1) Src - contain smart contract solidity code
+2) Script - write scripts to deploy on different chains (Sepolia, Anvil, Ethereum Mainnet etc)
+3) Tests - developed tests to aviod any error or mislead before deployment
+
 
 ## Requirements
 
